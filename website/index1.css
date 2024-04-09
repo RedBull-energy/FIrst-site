@@ -1,0 +1,326 @@
+e{
+    position: absolute;
+    width: 1440px;
+    height: 144px;
+    left: 0px;
+    top: 0px;
+    
+    background: rgba(255, 3, 139, 0.7);
+
+}
+
+pic1{
+    position: absolute;
+    width: 97px;
+    height: 98px;
+    left: 33px;
+    top: 23px;
+    
+    background: url(медведь.jpg);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+
+t1{
+    position: absolute;
+    width: 366px;
+    height: 52px;
+    left: 142px;
+    top: 46px;
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 52px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+
+}
+
+
+select {
+    position: absolute;
+    width: 500px;
+    height: 56px;
+    left: 560px;
+    top: 44px;
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: rgba(255, 3, 139, 0.7);
+    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+ 
+ }
+
+pic2{
+    position: absolute;
+    width: 56px;
+    height: 51px;
+    left: 924px;
+    top: 47px;
+    
+    background: url(лупа.jpg);
+
+}
+
+pic3{
+    position: absolute;
+    width: 49px;
+    height: 48px;
+    left: 988px;
+    top: 50px;
+    
+    background: url(фильтр.jpg);
+
+}
+
+pic4{
+    position: absolute;
+    width: 84px;
+    height: 84px;
+    left: 1106px;
+    top: 32px;
+    
+    background: url(аккаунт2.jpg);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+
+pic5{
+    position: absolute;
+    width: 97px;
+    height: 98px;
+    left: 1233px;
+    top: 23px;
+    
+    background: url(медведь.jpg);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+
+e1{
+    position: absolute;
+    width: 1440px;
+    height: 70px;
+    left: 0px;
+    top: 144px;
+    
+    background: rgba(236, 89, 169, 0.7);
+
+}
+
+pic6{
+    position: absolute;
+    width: 47px;
+    height: 49px;
+    left: 96px;
+    top: 155px;
+    
+    background: url(домик.jpg);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+
+}
+
+.t3{
+    position: absolute;
+    width: 92px;
+    height: 29px;
+    left: 183px;
+    top: 165px;
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+    
+
+}
+
+pic7{
+    position: absolute;
+    width: 49px;
+    height: 49px;
+    left: 508px;
+    top: 155px;
+    
+    background: url(плэй.jpg);
+
+}
+
+t4{
+    position: absolute;
+    width: 231px;
+    height: 29px;
+    left: 579px;
+    top: 165px;
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+
+}
+
+pic8{
+    position: absolute;
+    width: 49px;
+    height: 49px;
+    left: 1086px;
+    top: 155px;
+    
+    background: url(билет.jpg);
+
+}
+
+.t5{
+    position: absolute;
+    width: 171px;
+    height: 29px;
+    left: 1155px;
+    top: 165px;
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+
+}
+
+pic9{
+    position: absolute;
+    width: 1440px;
+    height: 610px;
+    left: 0px;
+    top: 214px;
+    background: url(смурфики.jpg);
+
+
+}
+
+y1{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 394.47px;
+    height: 490.09px;
+    left: 96px;
+    top: 255px;
+    
+    background: #FFFFFF;
+    border: 5px solid rgba(255, 3, 139, 0.7);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+
+}
+
+t6{
+    position: absolute;
+    width: 345px;
+    height: 383px;
+    left: 122px;
+    top: 309px;
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    
+    color: rgba(255, 3, 139, 0.7);
+
+}
+
+.y2{
+    position: absolute;
+    width: 276px;
+    height: 51px;
+    left: 997px;
+    top: 604px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    
+
+}
+
+t7{
+    position: absolute;
+    width: 130px;
+    height: 29px;
+    left: 1069px;
+    top: 615px;
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: rgba(255, 3, 139, 0.7);
+    
+
+}
+
+.y3{
+    position: absolute;
+    width: 276px;
+    height: 51px;
+    left: 997px;
+    top: 665px;
+
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 45px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: rgba(255, 3, 139, 0.7);
+    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    
+
+}

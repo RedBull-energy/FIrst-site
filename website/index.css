@@ -1,0 +1,239 @@
+header {
+   position: absolute;
+   width: 1440px;
+   height: 144px;
+   left: 0px;
+   top: 0px;
+   background-color: rgba(255, 3, 139, 0.7);
+}
+
+.pic1{
+   position: absolute;
+   width: 97px;
+   height: 98px;
+   left: 33px;
+   top: 23px;
+   background: url(медведь.jpg);
+   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+/* телепультик */
+.t1{
+   position: absolute;
+   width: 366px;
+   height: 52px;
+   left: 142px;
+   top: 46px;
+    
+   font-family: 'Ubuntu';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 45px;
+   line-height: 52px;
+   text-align: center;
+   color: #FFFFFF;
+   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+select {
+   position: absolute;
+   width: 467px;
+   height: 56px;
+   left: 560px;
+   top: 44px;
+   
+   font-family: 'Ubuntu';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 25px;
+   line-height: 29px;
+   color: rgba(255, 3, 139, 0.7);
+   /* display: block;
+   min-width: 220px;
+   width: 100%;
+   max-width: 476px;
+   margin-bottom: 20px; */
+   
+   background: #FFFFFF;
+   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+   border-radius: 25px;
+
+}
+
+.pic2{
+   position: absolute;
+   width: 56px;
+   height: 51px;
+   left: 901px;
+   top: 47px;
+   background: url(лупа.jpg);
+
+}
+
+.pic3{
+   position: absolute;
+   width: 49px;
+   height: 48px;
+   left: 962px;
+   top: 48px;
+   background: url(фильтр.jpg);
+}
+
+.pic4{
+   position: absolute;
+   width: 84px;
+   height: 84px;
+   left: 1106px;
+   top: 32px;
+
+   background: url(аккаунт2.jpg);
+   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+
+.pic5{
+   position: absolute;
+   width: 97px;
+   height: 98px;
+   left: 1233px;
+   top: 23px;
+   
+   background: url(медведь.jpg);
+   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.upBar{
+   position: absolute;
+   width: 1440px;
+   height: 70px;
+   left: 0px;
+   top: 144px;
+   background: rgba(236, 89, 169, 0.7);
+}
+
+.pic6{
+   position: absolute;
+   width: 47px;
+   height: 49px;
+   left: 96px;
+   top: 155px;
+    
+   background: url(домик.jpg);
+   transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.home{
+   position: absolute;
+   width: 101px;
+   height: 29px;
+   left: 166px;
+   top: 165px;
+    
+   font-family: 'Ubuntu';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 25px;
+   line-height: 29px;
+   text-align: center;
+   color: #000000;
+
+}
+
+.pic7{
+   position: absolute;
+   width: 49px;
+   height: 49px;
+   left: 508px;
+   top: 155px;
+   background: url(плэй.jpg);
+
+}
+
+.movie{
+   position: absolute;
+   width: 216px;
+   height: 29px;
+   left: 578px;
+   top: 165px;
+    
+   font-family: 'Ubuntu';
+   font-style: normal;
+   font-weight: 300;
+   font-size: 25px;
+   line-height: 29px;
+   text-align: center;
+   color: #000000;
+}
+
+.pic8{
+   position: absolute;
+   width: 49px;
+   height: 49px;
+   left: 1086px;
+   top: 155px;
+   background: url(билет.jpg);
+}
+
+.tickets{
+   position: absolute;
+   width: 171px;
+   height: 29px;
+   left: 1155px;
+   top: 165px;
+    
+   font-family: 'Ubuntu';
+   font-style: normal;
+   font-weight: 300;
+   font-size: 25px;
+   line-height: 29px;
+   text-align: center;
+   color: #000000;    
+}
+
+.pic9{
+   position: absolute;
+   width: 1440px;
+   height: 610px;
+   left: 0px;
+   top: 212px;
+   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+   background: url(смурфики.jpg);
+}
+
+
+.bigButton{
+   position: absolute;
+   width: 251px;
+   height: 75px;
+   left: 106px;
+   top: 688px;
+    
+   background: #FFFFFF;
+   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+   border-radius: 25px;
+}
+
+.pic10{
+   position: absolute;
+   width: 354px;
+   height: 132px;
+   left: 55px;
+   top: 556px;
+   background: url(надпись.jpg);
+}
+
+.information{
+   position: absolute;
+   width: 251px;
+   height: 34px;
+   left: 106px;
+   top: 688px;
+    
+   font-family: 'Ubuntu';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 30px;
+   line-height: 34px;
+   text-align: center;
+   text-decoration-line: underline;
+   color: rgba(255, 3, 139, 0.7);
+}

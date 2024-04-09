@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="rus">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>ТЕЛЕПУЛЬТИКИ</title>
+        <link rel="stylesheet" type = "text/css" href="index.css">
+    </head>
+
+	<body bgcolor="#FFFFF">
+
+		<script type="text/javascript" src="index.js"></script>
+
+    	<header>
+        	<!-- <input type="text" size="150" placeholder="Найти мультфильм"> -->
+
+			 <!-- ВЫБОР МУЛЬИКОВ СДЕЛАТЬ -->
+			<div class="selectMovie"><select onchange="window.location.href = this.options[this.selectedIndex].value">
+				<option value="">Выберите мультфильм</option>
+				<option value="https://premier.one/show/cheburashka-1969/season/1/episode/2?fullscreen=true">Чебурашка</option>
+				<option value="https://premier.one/show/cheburashka-1969/season/1/episode/1?fullscreen=true">Крокодил Гена</option>
+				<option value="return information('https://premier.one/show/cheburashka-1969/season/1/episode/3">Шапокляк</option>
+			</select></div>
+
+      		<div class="pic1" name="bear1"></div>
+			<div class="t1">ТЕЛЕПУЛЬТИКИ</div>
+			<div class="pic2"></div>
+			<div class="pic3"></div>
+			<div class="pic4" onclick="return information('anketa.html')"></div>
+			<div class="pic5"></div>
+			<div class="upBar"></div>
+			<div class="pic6"></div>
+			<div class="home" onclick="return test();">Главная</div>
+			<div class="pic7"></div>
+			<div class="movie" onclick="return information('index1.html')">Онлайн кинотеатр</div>
+			<div class="pic8"></div>
+			<div class="tickets" onclick="return information('index2.html');">Купить билеты</div>
+    	</header>
+
+		<div class="pic9" name="smurf"></div>
+		<div class="pic10" name="note"></div>
+		<div class="bigButton"></div>
+		<div class="information" onclick="return information('index1.html');">УЗНАТЬ БОЛЬШЕ</div>
+
+	</body>
+</html>
